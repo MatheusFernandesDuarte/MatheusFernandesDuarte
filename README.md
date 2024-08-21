@@ -1,15 +1,8 @@
 I'm Matheus, a developer and technical leader for digital solutions in my own companies.
+Studying Software Engineering in Uniamerica
 
-🔹 Specializations:
-Automation of repetitive tasks
-Development of interfaces and websites for financial investments
-Implementation of financial management systems
+## Matheus Fernandes Duarte's GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusfernandesduarte&show_icons=true&theme=radical)
 
-🔹 Technologies:
-Python, JavaScript, HTML, CSS
-Frameworks like Django and React
-SQL and NoSQL databases
-
-🔹 Current Projects:
-Automation tools for the financial sector
-Investment analysis and management platforms
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfernandesduarte&layout=compact&theme=radical)
