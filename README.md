@@ -60,12 +60,6 @@ Currently, I’m studying **Software Engineering & Economics**, where I speciali
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusfernandesduarte&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfernandesduarte&layout=compact&theme=radical)
-
----
-
 💡 **Let’s connect!**  
 📧 Email: [matthfeeer@gmail.com](mailto:matthfeeer@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/matheus-fernandes-duarte-a8a74724a/)  
