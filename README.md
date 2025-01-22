@@ -1,23 +1,72 @@
 # 👋 Hi, I'm Matheus Fernandes Duarte
 
-I'm a passionate developer and technical leader, dedicated to crafting innovative digital solutions through my own ventures. Currently, I'm deepening my knowledge in Software Engineering at Uniamerica. With a strong foundation in development and leadership, I thrive on solving complex problems and turning ideas into reality.
-
 ## 🚀 About Me
+I’m a **Software Engineer** with a strong background in **AI, Machine Learning, and Data Automation**. My expertise lies in **Python** and the development of intelligent automation systems that optimize workflows and enhance efficiency. I have experience in **fine-tuning AI models, web scraping large-scale datasets, and integrating AI into financial and legal applications**.
 
-- 🌱 I’m currently studying **Software Engineering** at Uniamerica.
-- 💼 I run my own companies, where I lead the development of cutting-edge digital solutions.
-- 💬 Ask me about **software development, technical leadership, and digital innovation**.
-- ⚡ Fun fact: I'm always on the lookout for the next big tech trend and how it can be leveraged to create impactful solutions.
+Currently, I’m studying **Software Engineering & Economics**, where I specialize in **financial modeling, risk analysis, and AI-driven market forecasting**. I’m passionate about solving complex problems and pushing the boundaries of **data-driven automation**.
 
-## 🛠️ Skills & Tools
+## 💼 Professional Experience
+- **Software Engineer | AI & Automation (Freelancer, 2021 - Present)**
+  - Developed and deployed **AI-driven automation** solutions for legal and financial data processing.
+  - Integrated **VoIP** solutions into CRM systems to optimize communication workflows.
+  - Designed **data extraction pipelines** for large-scale legal data analysis.
+  - Built **high-performance APIs** using Python and JavaScript for AI data processing.
+  - Created **Python-based automation scripts** for financial forecasting and risk assessment.
 
-- **Languages:** JavaScript, Python, Java, HTML/CSS
-- **Frameworks & Libraries:** Node.js, Django, Flask
-- **DevOps & Cloud:** Docker, AWS
-- **Databases:** PostgreSQL
-- **Others:** Git
+## 🎓 Education
+- **Technical Degree in Systems Development (SENAI, 2022)**
+  - Specialized in **Mobile Software Development** with UX/UI and Java.
+  - Developed projects on **financial data processing**.
+
+- **Bachelor's in Economics & Software Engineering (Unicesumar | Uniamérica, 2027)**
+  - Focused on **Machine Learning, Data Analysis, and Economic Modeling**.
+  - Specialized in **financial risk management, macroeconomic modeling, and AI-driven market analysis**.
+  - Conducted research on **automated data extraction and financial forecasting**.
+
+## 🛠️ Skills & Technologies
+### **Programming & Software Development**
+- **Python** (Flask, Django, Selenium, Pandas)
+- **SQL** (PostgreSQL, SQLite, Prisma)
+- **JavaScript & Node.js**
+
+### **Machine Learning & AI**
+- **OpenAI APIs**, **Fine-Tuning LLMs**
+- **TensorFlow, Scikit-Learn**
+- **Data Engineering** (Web Scraping, API Development, Matplotlib)
+
+### **Automation & DevOps**
+- **Robotic Process Automation (RPA)**
+- **VoIP Integrations for CRM Systems**
+- **Docker, AWS, CI/CD Pipelines**
+
+### **Finance & Data Science**
+- **Risk Analysis, Market Forecasting**
+- **Macroeconomic Data Modeling**
+- **Mathematics & Statistics** (Linear Algebra, Probability, Optimization)
+
+### **Languages**
+- **English (Fluent)**
+- **Portuguese (Native)**
+- **Spanish (Intermediate)**
+
+## 📌 Notable Projects
+- **Fine-Tuning OpenAI Models** – Trained **custom LLMs** for AI-powered content generation and search systems.
+- **Financial Forecasting Engine** – Developed **AI-driven investment analysis** tools for risk assessment.
+- **Mobile Banking App** – Built an **Android app in Java with Firebase integration** for real-time financial data processing.
+
+## 📜 Certifications & Achievements
+- **Supervisioned Algorithms (2025)**
+- **Python RPA Specialist (2022, Internal Project)**
+
+---
 
 ## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusfernandesduarte&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfernandesduarte&layout=compact&theme=radical)
+
+---
+
+💡 **Let’s connect!**  
+📧 Email: [matthfeeer@gmail.com](mailto:matthfeeer@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/matheus-fernandes-duarte-a8a74724a/)  
+🔗 [GitHub](https://github.com/matheusfernandesduarte)  
