@@ -63,4 +63,3 @@ Currently, I’m studying **Software Engineering & Economics**, where I speciali
 💡 **Let’s connect!**  
 📧 Email: [matthfeeer@gmail.com](mailto:matthfeeer@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/matheus-fernandes-duarte-a8a74724a/)  
-🔗 [GitHub](https://github.com/matheusfernandesduarte)  
