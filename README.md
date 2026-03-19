@@ -1,43 +1,54 @@
-# 👋 Hi, I'm Matheus Fernandes Duarte  
+# Matheus Fernandes Duarte
 
-💻 **Software Engineer** specialized in **automation, cloud infrastructure, and scalable systems**.  
-I design and build solutions that **reduce operational inefficiencies, lower costs, and scale seamlessly**.  
+**Software Engineer · Cloud Architecture · Automation**
 
----
-
-## 🚀 About Me  
-- 🎯 Experienced with **Python, FastAPI, Docker, Azure**.  
-- ⚙️ Passionate about **automation, RPAs, cloud-native applications, and data engineering pipelines**.  
-- 🛠️ Strong background in **DevOps practices, CI/CD, and serverless architectures**.  
-- 🌎 Open to **remote opportunities worldwide** as a Software Engineer.  
+Co-founder & Head of Technology at [Precatech](https://precatech.com.br) — building the company's entire tech operation from scratch on Azure.  
+Co-founder & Software Engineer at [Lumetech.space](https://lumetech.space) — full-stack product development across web and mobile.
 
 ---
 
-## 🏆 Key Achievements  
-- Automated an entire **commercial pipeline intake** in less than 3 months using **Azure serverless routines**, reducing manual work and enabling 24/7 operation.  
-- Designed RPA solutions in Python (Selenium, Playwright) that replaced the workload of **~30 employees over 4 years**, enabling scale without increasing headcount.  
-- Built dashboards integrated with APIs (e.g., Central Bank of Brazil) to provide real-time financial insights.  
+## About
+
+I build systems that replace manual processes at scale. Over four years at CréditoSC I automated workflows that removed the equivalent of 30 full-time roles — across document processing, reporting pipelines, and internal tooling. Since then I've moved further up the stack: designing serverless cloud infrastructure, event-driven pipelines, and production-grade APIs consumed by real users.
+
+I tend to work across the full lifecycle — from architecture and implementation to CI/CD, monitoring, and infra-as-code. I care about systems that are simple, observable, and actually run in production without babysitting.
 
 ---
 
-## 🛠️ Tech Stack  
+## Stack
 
 **Languages & Frameworks**  
-- Python · FastAPI · Flask · TypeScript · JavaScript 
+Python · FastAPI · Flask · Next.js · React · React Native
 
-**Automation & Data**  
-- Selenium · Playwright · Pandas · NumPy · Scikit-Learn  
+**Cloud & Infrastructure**  
+Azure (Container Apps, Cosmos DB, Key Vault, Functions, Blob Storage) · AWS · GCP · Docker · GitHub Actions
 
-**Cloud & DevOps**  
-- Microsoft Azure (Container Apps, Cosmos DB, Blob Storage, Queue Storage, Functions)  
-- AWS Lambda · Oracle Cloud  
-- Docker · GitHub Actions (CI/CD)  
+**Automation & Scraping**  
+Selenium · Playwright · RPA pipelines
 
-**Databases**  
-- PostgreSQL · Cosmos DB (NoSQL) · SQLite  
+**Data & Storage**  
+Cosmos DB · SQL · REST APIs
 
 ---
 
-## 📫 Let's Connect  
-- [LinkedIn](https://www.linkedin.com/in/matthfeeer)  
-- 📧 matthfeeer@gmail.com  
+## Currently Building
+
+- **Precatech** — Azure-native data pipeline infrastructure: Container App Jobs, Cosmos DB, Managed Identity, automated enrichment workflows, and CRM integrations.
+- **Lumetech.space** — Multi-platform products (web + mobile) for clients across different verticals, built with Next.js, React Native, FastAPI, and deployed across Azure/AWS/GCP.
+
+---
+
+## Experience
+
+| Period | Company | Role |
+|--------|---------|------|
+| 2025 – present | Precatech | Co-founder & Head of Technology |
+| 2025 – present | Lumetech.space | Co-founder & Software Engineer |
+| 2024 – 2025 | MD Participações | Software Engineer |
+| 2020 – 2024 | CréditoSC | Software Engineer (Fullstack / Automation) |
+
+---
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/matheusfernandesduarte) · [matthfeeer@gmail.com](mailto:matthfeeer@gmail.com)
