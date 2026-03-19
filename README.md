@@ -42,8 +42,8 @@ Cosmos DB · SQL · REST APIs
 
 | Period | Company | Role |
 |--------|---------|------|
-| 2025 – present | Precatech | Co-founder & Head of Technology |
-| 2025 – present | Lumetech.space | Co-founder & Software Engineer |
+| 2026 – present | Precatech | Co-founder & Head of Technology |
+| 2026 – present | Lumetech.space | Co-founder & Software Engineer |
 | 2024 – 2025 | MD Participações | Software Engineer |
 | 2020 – 2024 | CréditoSC | Software Engineer (Fullstack / Automation) |
 
