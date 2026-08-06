@@ -3,7 +3,6 @@
 **Software Engineer · AI Systems · Cloud · Automation**
 
 Co-founder and Head of Technology at [Precatech](https://precatech.com.br), where I built the entire tech operation from scratch on Azure.
-Co-founder and Software Engineer at [Lume Tech](https://lumetech.space), shipping full-stack web and mobile products.
 Solo founder of [Instascore](https://www.instascore.com.br), an AI SaaS running an LLM pipeline on the Anthropic API in production.
 
 ---
@@ -41,7 +40,6 @@ Cosmos DB · SQL · REST APIs
 
 - **Precatech** — Azure-native data pipeline infrastructure: Container App Jobs, Cosmos DB, Managed Identity, automated enrichment, and CRM integrations. Processes 50,000 legal claims a week.
 - **Instascore** — AI SaaS that analyzes Instagram profiles. LLM pipeline on the Anthropic API, Next.js, server-side conversion tracking, the whole thing run solo.
-- **Lume Tech** — Multi-platform products (web and mobile) for clients across verticals, built with Next.js, React Native, and FastAPI, deployed across Azure, AWS, and GCP.
 
 ---
 
@@ -50,7 +48,6 @@ Cosmos DB · SQL · REST APIs
 | Period | Company | Role |
 |--------|---------|------|
 | 2026-present | Precatech | Co-founder & Head of Technology |
-| 2026-present | Lume Tech | Co-founder & Software Engineer |
 | 2024-2025 | MD Participações | Software Engineer |
 | 2020-2024 | CréditoSC | Software Engineer (Fullstack / Automation) |
 
